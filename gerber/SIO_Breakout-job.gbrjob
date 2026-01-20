@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "9.0.7"
     },
-    "CreationDate": "2026-01-20T08:57:55-06:00"
+    "CreationDate": "2026-01-20T10:21:11-06:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -50,6 +50,16 @@
       "Path": "SIO_Breakout-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
+    },
+    {
+      "Path": "SIO_Breakout-F_Mask.gbr",
+      "FileFunction": "SolderMask,Top",
+      "FilePolarity": "Negative"
+    },
+    {
+      "Path": "SIO_Breakout-B_Mask.gbr",
+      "FileFunction": "SolderMask,Bot",
+      "FilePolarity": "Negative"
     },
     {
       "Path": "SIO_Breakout-Edge_Cuts.gbr",
