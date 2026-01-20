@@ -1304,7 +1304,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Atari:Atari_SIO_Socket"
 			(at 114.3 109.22 0)
 			(effects
 				(font
@@ -1407,7 +1407,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x13_P2.54mm_Horizontal"
 			(at 189.23 100.33 0)
 			(effects
 				(font
